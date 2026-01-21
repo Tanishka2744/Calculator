@@ -88,6 +88,7 @@ _No additional setup required._
 
 📹 **Demo Video:**  
 
+![Calculator](https://github.com/user-attachments/assets/a84cef03-954e-464e-b9db-8f3e98011bba)
 
 ---
 
