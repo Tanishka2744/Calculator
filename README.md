@@ -1,95 +1,61 @@
-# 🧮 Calculator Web Application
+# 🌟 Calculator Website
 
-A clean and interactive **Calculator Web Application** built using **HTML, CSS, and JavaScript**.  
-This project focuses on simplicity, usability, and a smooth user experience while performing everyday calculations.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
----
+**Calculator Website** is a modern web application built using **HTML, CSS, and JavaScript**, designed to perform **basic arithmetic operations** with a clean and responsive interface.
 
-## ✨ About the Project
-
-This calculator is designed to handle basic arithmetic operations with a modern UI and responsive layout.  
-It provides real-time input handling and ensures a smooth interaction without page reloads.
-
-The goal of this project was to strengthen my **JavaScript logic**, **DOM manipulation**, and **UI styling skills** while building something practical and user-friendly.
+💡 This project focuses on **JavaScript logic, UI design, and interactive user experience**, perfect for demonstrating fundamental frontend skills.
 
 ---
 
-## ⚙️ Features
+## 🌐 Live Demo
 
-- Clean and minimal calculator interface  
-- Responsive design that works on different screen sizes  
-- Real-time input and output display  
-- Supports:
-  - Addition (+)
-  - Subtraction (−)
-  - Multiplication (×)
-  - Division (÷)
-  - Percentage (%)
-- AC (All Clear) and DEL (Delete last digit) functionality  
-- Error handling for invalid expressions  
+[🧮 View Calculator Website Live](https://calculator-ruddy-eight-73.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🌈 Tech Skills
 
-- **HTML** – Structure of the calculator  
-- **CSS** – Styling, layout, gradients, and button effects  
-- **JavaScript** – Logic, event handling, and calculations  
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
 
----
-
-## 🔄 Development Process
-
-1. Created the calculator layout using **HTML buttons and input field**  
-2. Styled the UI using **CSS gradients, shadows, and rounded buttons**  
-3. Selected all buttons using JavaScript and added **click event listeners**  
-4. Used a string-based approach to store user input  
-5. Implemented:
-   - `eval()` for calculation
-   - Try–catch for error handling
-   - Conditions for AC and DEL buttons
-6. Prevented invalid inputs like double operators  
-
-This step-by-step approach helped keep the logic simple and easy to manage.
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
 
 ---
 
-## 📘 What I Learned
+## 💻 About Calculator Website
 
-- Handling user input dynamically using JavaScript  
-- DOM manipulation and event handling  
-- Preventing invalid operations logically  
-- Writing cleaner and more readable frontend code  
-- Improving UI using shadows, gradients, and transitions  
+- Built using **HTML, CSS, and JavaScript**  
+- Provides **basic arithmetic operations**: addition, subtraction, multiplication, and division  
+- Focused on **clean, minimal, and responsive layout**  
+- Highlights **real-world logic implementation and UI interactivity**  
 
----
+### 🌟 Key Features
 
-## 🚀 Future Improvements
-
-- Keyboard input support  
-- Scientific calculator functions  
-- Improved error messages  
-- Better accessibility support  
-- Component-based version using React  
+- **Responsive Design:** Works smoothly on desktop, tablet, and mobile screens  
+- **Interactive Buttons:** Clickable digits and operators for instant calculation  
+- **Clear Display:** Shows input and calculation results clearly  
+- **Modular Code:** Organized JS functions for easy maintenance  
 
 ---
 
-## ▶️ How to Run the Project
+## 🌱 Learning & Growth
 
-1. Clone or download the repository  
-2. Open the `index.html` file in your browser  
-3. Start using the calculator instantly  
-
-_No additional setup required._
+- 💻 Strengthening **JavaScript fundamentals and logic**  
+- 🎨 Improving **UI/UX for interactive components**  
+- 🌐 Practicing **responsive design techniques**  
 
 ---
 
-## 🎥 Preview
+## 📬 Connect With Me
 
-📹 **Demo Video:**  
-
-![Calculator](https://github.com/user-attachments/assets/a84cef03-954e-464e-b9db-8f3e98011bba)
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
 
 ---
 
-⭐ If you liked this project, feel free to explore more of my work!
+Made with ❤️ using **HTML, CSS & JavaScript**
